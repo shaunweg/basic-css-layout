@@ -16,7 +16,7 @@ h1, h2 {
 }
 
 .header {
-    background-color: #f1f1f1;
+    background-color: #aaaaff;
     padding: 20px;
     text-align: center;
 }
@@ -64,7 +64,7 @@ h1, h2 {
 }
 
 .footer {
-    background-color: #f1f1f1;
+    background-color: #aa55aa;
     padding: 10px;
     text-align: center;
 }
