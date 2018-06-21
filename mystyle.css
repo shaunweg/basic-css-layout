@@ -10,6 +10,11 @@ h1, h2 {
   font-family: 'Spirax', cursive;
 }
 
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #wrapper {
   width: 90%;
   margin-left: auto;
