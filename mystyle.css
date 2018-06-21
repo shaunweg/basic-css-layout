@@ -8,6 +8,7 @@ body {
 
 h1, h2 {
   font-family: 'Spirax', cursive;
+  color: #5555aa;
 }
 
 #bob {
@@ -26,10 +27,7 @@ h1, h2 {
     background-color: #7777aa;
     padding: 20px;
     text-align: center;
-}
-
-.header h1{
-  color: #ffffff;
+    color: #ddddff;
 }
 
 .header p{
