@@ -25,6 +25,10 @@ body {
     color: #ddddff;
 }
 
+.header h1{
+  font-family: 'Spirax', cursive;
+}
+
 .header p{
   font-family: 'Ubuntu', sans-serif;
 }
@@ -79,5 +83,7 @@ body {
 }
 
 .footer h1{
-  color: #ffffff;
+  color: #ddddff;
+  font-family: 'Spirax', cursive;
 }
+
