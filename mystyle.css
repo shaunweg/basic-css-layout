@@ -51,11 +51,11 @@ h1, h2 {
 }
 
 .column.side {
-    width: 30%;
+    width: 25%;
 }
 
 .column.main {
-    width: 60%;
+    width: 65%;
 }
 
 .row:after {
