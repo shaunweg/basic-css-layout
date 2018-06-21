@@ -6,11 +6,6 @@ body {
   color: #444444;
 }
 
-.colum h1, h2 {
-  font-family: 'Spirax', cursive;
-  color: #5555aa;
-}
-
 #bob {
   width: 610px;
   margin-left: auto;
@@ -64,6 +59,11 @@ body {
 
 .column.main {
     width: 65%;
+}
+
+.column h1, h2 {
+  font-family: 'Spirax', cursive;
+  color: #5555aa;
 }
 
 .row:after {
